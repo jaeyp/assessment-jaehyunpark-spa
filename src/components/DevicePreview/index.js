@@ -20,7 +20,7 @@ export default ({ link, styles = { width: "100%", height: "60vh" } }) => {
                 </div>
             </div>
             <div className="flex content-center justify-center" style={styles}>
-                <iframe src={link} className={width} title="preview"></iframe>
+                <iframe src="https://assessment-jaehyunpark-spa.now.sh/networth" className={width} title="preview"></iframe>
             </div>
         </div>
     )
